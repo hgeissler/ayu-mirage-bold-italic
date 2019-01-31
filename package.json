@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ayu Mirage - Bold+Italic",
+                "label": "Ayu Mirage PowerUp",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ayu Mirage - Bold+Italic-color-theme.json"
             }
