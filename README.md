@@ -9,6 +9,9 @@ All power to the original Ayu - theme
 
 **Enjoy!**
 
+
+**Examples:**
+
 **html:**
 
 
@@ -18,3 +21,12 @@ All power to the original Ayu - theme
 
 
 ![js example](example2.png)
+
+**python:**
+
+![python example](example3.png)
+
+
+
+Font used:
+![Hack](https://github.com/source-foundry/Hack)

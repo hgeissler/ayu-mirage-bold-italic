@@ -1,14 +1,23 @@
 {
     "name": "ayu-mirage-bold-italic",
-    "displayName": "Ayu Mirage bold/italic",
+    "displayName": "Ayu Mirage PowerUp",
     "description": "A rework of the 'Ayu Mirage' theme. Bold and Italic enabled. Brighter colors",
     "version": "1.3.0",
     "publisher": "geisslerh",
     "engines": {
         "vscode": "^1.30.0"
     },
+    "license": "MIT",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "mirage",
+        "ayu",
+        "colorblind",
+        "color blind"
     ],
     "contributes": {
         "themes": [
@@ -19,5 +28,8 @@
             }
         ]
     },
-    "repository": "https://github.com/hgeissler/ayu-mirage-bold-italic.git"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hgeissler/ayu-mirage-bold-italic"
+    }
 }
