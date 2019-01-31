@@ -2,7 +2,7 @@
     "name": "ayu-mirage-bold-italic",
     "displayName": "Ayu Mirage PowerUp",
     "description": "A rework of the 'Ayu Mirage' theme. Bold and Italic enabled. Brighter colors",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "publisher": "geisslerh",
     "engines": {
         "vscode": "^1.30.0"
