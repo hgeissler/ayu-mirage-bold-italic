@@ -29,4 +29,4 @@ All power to the original Ayu - theme
 
 
 Font used:
-![Hack](https://github.com/source-foundry/Hack)
+[Hack](https://github.com/source-foundry/Hack)
