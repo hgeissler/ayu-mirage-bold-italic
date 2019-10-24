@@ -31,7 +31,7 @@ Font used:
 
 ***python multiline-comment-workaround:***  
 edit your vscode settings.json:  
-
+<pre><code>
 "editor.tokenColorCustomizations": {  
         "[Ayu Mirage PowerUp]":{  
           "textMateRules":[  
@@ -44,4 +44,5 @@ edit your vscode settings.json:
           ]  
         }  
     }  
-}  
+}
+</code></pre>
