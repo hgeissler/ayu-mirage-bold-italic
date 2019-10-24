@@ -29,19 +29,19 @@
 Font used:
 [Hack](https://github.com/source-foundry/Hack)
 
-***python multiline-comment-workaround:***
-edit your vscode settings.json:
+***python multiline-comment-workaround:***  
+edit your vscode settings.json:  
 
-"editor.tokenColorCustomizations": {
-        "[Ayu Mirage PowerUp]":{
-          "textMateRules":[
-            {
-              "scope": "string.quoted.docstring.multi.python",
-              "settings":{
-                "foreground": "#5c6773"
-               }
-            }
-          ]
-        }
-    }
-}
+"editor.tokenColorCustomizations": {  
+        "[Ayu Mirage PowerUp]":{  
+          "textMateRules":[  
+            {  
+              "scope": "string.quoted.docstring.multi.python",  
+              "settings":{  
+                "foreground": "#5c6773"  
+               }  
+            }  
+          ]  
+        }  
+    }  
+}  
