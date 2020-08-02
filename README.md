@@ -1,8 +1,8 @@
 # README
 
-+ Customized version of the 'Ayu Mirage' - theme.
-+ Bold & Italic font have been added to the theme 
-+ Brighter, easy to distinguish colors
++ Customized version of the 'Ayu Mirage'-Theme.
++ Added bold and italic font
++ Brighter colors
 
 
 **Enjoy!**
